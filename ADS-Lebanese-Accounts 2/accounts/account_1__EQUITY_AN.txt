@@ -1,0 +1,551 @@
+==========================================
+               ACCOUNT REPORT              
+==========================================
+Account Number : 1
+Description    :  EQUITY AND LIABILITIES 0
+Balance        : $0.00
+==========================================
+SUBACCOUNTS
+------------------------------------------
+    - Subaccount: 10
+      Description :  Capital a
+      Balance     : $0.00
+    
+        - Subaccount: 101
+          Description :  Capital 0
+          Balance     : $0.00
+        
+            - Subaccount: 1011
+              Description :  Subscribe
+              Balance     : $0.00
+            
+            - Subaccount: 1012
+              Description : Subscribed
+              Balance     : $0.00
+            
+            - Subaccount: 1013
+              Description : Subscribed
+              Balance     : $0.00
+            
+                - Subaccount: 10131
+                  Description :  Remaining
+                  Balance     : $0.00
+                
+                - Subaccount: 10132
+                  Description :  Returned 
+                  Balance     : $0.00
+                
+            - Subaccount: 1018
+              Description :  Subscribe
+              Balance     : $0.00
+            
+        - Subaccount: 102
+          Description :  Trust fun
+          Balance     : $0.00
+        
+        - Subaccount: 104
+          Description :  Premiums 
+          Balance     : $0.00
+        
+            - Subaccount: 1041
+              Description :  Share pre
+              Balance     : $0.00
+            
+            - Subaccount: 1042
+              Description :  Merger pr
+              Balance     : $0.00
+            
+            - Subaccount: 1043
+              Description :  Contribut
+              Balance     : $0.00
+            
+            - Subaccount: 1044
+              Description :  Premiums 
+              Balance     : $0.00
+            
+            - Subaccount: 1045
+              Description :  Share war
+              Balance     : $0.00
+            
+        - Subaccount: 105
+          Description :  Revaluati
+          Balance     : $0.00
+        
+            - Subaccount: 1051
+              Description :  Special r
+              Balance     : $0.00
+            
+            - Subaccount: 1052
+              Description :  Non-manda
+              Balance     : $0.00
+            
+            - Subaccount: 1053
+              Description :  Revaluati
+              Balance     : $0.00
+            
+            - Subaccount: 1055
+              Description :  Revaluati
+              Balance     : $0.00
+            
+            - Subaccount: 1057
+              Description :  Other rev
+              Balance     : $0.00
+            
+            - Subaccount: 1058
+              Description :  Other rev
+              Balance     : $0.00
+            
+        - Subaccount: 106
+          Description :  Reserves 
+          Balance     : $0.00
+        
+            - Subaccount: 1061
+              Description :  Legal res
+              Balance     : $0.00
+            
+                - Subaccount: 10611
+                  Description :  Standard 
+                  Balance     : $0.00
+                
+                - Subaccount: 10612
+                  Description :  Net long-
+                  Balance     : $0.00
+                
+            - Subaccount: 1062
+              Description :  Reserves 
+              Balance     : $0.00
+            
+            - Subaccount: 1063
+              Description :  Statutory
+              Balance     : $0.00
+            
+            - Subaccount: 1064
+              Description :  Regulated
+              Balance     : $0.00
+            
+                - Subaccount: 10641
+                  Description :  Net long-
+                  Balance     : $0.00
+                
+                - Subaccount: 10643
+                  Description :  Reserves 
+                  Balance     : $0.00
+                
+                - Subaccount: 10648
+                  Description :  Other reg
+                  Balance     : $0.00
+                
+            - Subaccount: 1068
+              Description :  Other res
+              Balance     : $0.00
+            
+                - Subaccount: 10681
+                  Description :  Self insu
+                  Balance     : $0.00
+                
+                - Subaccount: 10688
+                  Description :  Sundry re
+                  Balance     : $0.00
+                
+        - Subaccount: 107
+          Description :  Differenc
+          Balance     : $0.00
+        
+        - Subaccount: 108
+          Description :  Owner's p
+          Balance     : $0.00
+        
+        - Subaccount: 109
+          Description :  Sharehold
+          Balance     : $0.00
+        
+    - Subaccount: 11
+      Description :  Retained 
+      Balance     : $0.00
+    
+        - Subaccount: 110
+          Description :  Retained 
+          Balance     : $0.00
+        
+        - Subaccount: 119
+          Description :  Negative 
+          Balance     : $0.00
+        
+    - Subaccount: 12
+      Description :  Profit or
+      Balance     : $0.00
+    
+        - Subaccount: 120
+          Description :  Profit fo
+          Balance     : $0.00
+        
+        - Subaccount: 129
+          Description :  Loss for 
+          Balance     : $0.00
+        
+    - Subaccount: 13
+      Description :  Investmen
+      Balance     : $0.00
+    
+        - Subaccount: 131
+          Description :  Equipment
+          Balance     : $0.00
+        
+            - Subaccount: 1311
+              Description :  State 0
+              Balance     : $0.00
+            
+            - Subaccount: 1312
+              Description :  Regions 0
+              Balance     : $0.00
+            
+            - Subaccount: 1313
+              Description :  Departmen
+              Balance     : $0.00
+            
+            - Subaccount: 1314
+              Description :  Municipal
+              Balance     : $0.00
+            
+            - Subaccount: 1315
+              Description :  Public au
+              Balance     : $0.00
+            
+            - Subaccount: 1316
+              Description :  State-own
+              Balance     : $0.00
+            
+            - Subaccount: 1317
+              Description :  Private c
+              Balance     : $0.00
+            
+            - Subaccount: 1318
+              Description :  Others 0
+              Balance     : $0.00
+            
+        - Subaccount: 138
+          Description :  Other inv
+          Balance     : $0.00
+        
+        - Subaccount: 139
+          Description :  Investmen
+          Balance     : $0.00
+        
+            - Subaccount: 1391
+              Description :  Equipment
+              Balance     : $0.00
+            
+                - Subaccount: 13911
+                  Description :  State 0
+                  Balance     : $0.00
+                
+                - Subaccount: 13912
+                  Description :  Regions 0
+                  Balance     : $0.00
+                
+                - Subaccount: 13913
+                  Description :  Departmen
+                  Balance     : $0.00
+                
+                - Subaccount: 13914
+                  Description :  Municipal
+                  Balance     : $0.00
+                
+                - Subaccount: 13915
+                  Description :  Public au
+                  Balance     : $0.00
+                
+                - Subaccount: 13916
+                  Description :  State-own
+                  Balance     : $0.00
+                
+                - Subaccount: 13917
+                  Description :  Private c
+                  Balance     : $0.00
+                
+                - Subaccount: 13918
+                  Description :  Other 0
+                  Balance     : $0.00
+                
+            - Subaccount: 1398
+              Description :  Other inv
+              Balance     : $0.00
+            
+    - Subaccount: 14
+      Description :  Regulated
+      Balance     : $0.00
+    
+        - Subaccount: 142
+          Description :  Regulated
+          Balance     : $0.00
+        
+            - Subaccount: 1423
+              Description :  Provision
+              Balance     : $0.00
+            
+            - Subaccount: 1424
+              Description :  Provision
+              Balance     : $0.00
+            
+        - Subaccount: 143
+          Description :  Regulated
+          Balance     : $0.00
+        
+            - Subaccount: 1431
+              Description :  Price inc
+              Balance     : $0.00
+            
+            - Subaccount: 1432
+              Description :  Exchange 
+              Balance     : $0.00
+            
+        - Subaccount: 144
+          Description :  Regulated
+          Balance     : $0.00
+        
+        - Subaccount: 145
+          Description :  Derogator
+          Balance     : $0.00
+        
+        - Subaccount: 146
+          Description :  Special r
+          Balance     : $0.00
+        
+        - Subaccount: 147
+          Description :  Reinveste
+          Balance     : $0.00
+        
+        - Subaccount: 148
+          Description :  Other reg
+          Balance     : $0.00
+        
+    - Subaccount: 15
+      Description :  Provision
+      Balance     : $0.00
+    
+        - Subaccount: 151
+          Description :  Provision
+          Balance     : $0.00
+        
+            - Subaccount: 1511
+              Description :  Provision
+              Balance     : $0.00
+            
+            - Subaccount: 1512
+              Description :  Provision
+              Balance     : $0.00
+            
+            - Subaccount: 1513
+              Description :  Provision
+              Balance     : $0.00
+            
+            - Subaccount: 1514
+              Description :  Provision
+              Balance     : $0.00
+            
+            - Subaccount: 1515
+              Description :  Provision
+              Balance     : $0.00
+            
+            - Subaccount: 1516
+              Description :  Provision
+              Balance     : $0.00
+            
+            - Subaccount: 1518
+              Description :  Other pro
+              Balance     : $0.00
+            
+        - Subaccount: 153
+          Description :  Provision
+          Balance     : $0.00
+        
+        - Subaccount: 154
+          Description :  Provision
+          Balance     : $0.00
+        
+        - Subaccount: 155
+          Description :  Provision
+          Balance     : $0.00
+        
+        - Subaccount: 156
+          Description :  Provision
+          Balance     : $0.00
+        
+        - Subaccount: 157
+          Description :  Provision
+          Balance     : $0.00
+        
+            - Subaccount: 1572
+              Description :  Provision
+              Balance     : $0.00
+            
+        - Subaccount: 158
+          Description :  Other pro
+          Balance     : $0.00
+        
+            - Subaccount: 1581
+              Description :  Provision
+              Balance     : $0.00
+            
+    - Subaccount: 16
+      Description :  Loans and
+      Balance     : $0.00
+    
+        - Subaccount: 161
+          Description :  Convertib
+          Balance     : $0.00
+        
+        - Subaccount: 162
+          Description :  Bonds rel
+          Balance     : $0.00
+        
+        - Subaccount: 163
+          Description :  Other deb
+          Balance     : $0.00
+        
+        - Subaccount: 164
+          Description :  Loans fro
+          Balance     : $0.00
+        
+        - Subaccount: 165
+          Description :  Deposits 
+          Balance     : $0.00
+        
+            - Subaccount: 1651
+              Description :  Deposits 
+              Balance     : $0.00
+            
+            - Subaccount: 1655
+              Description :  Sureties 
+              Balance     : $0.00
+            
+        - Subaccount: 166
+          Description :  Employee 
+          Balance     : $0.00
+        
+            - Subaccount: 1661
+              Description :  Blocked a
+              Balance     : $0.00
+            
+            - Subaccount: 1662
+              Description :  Profit-sh
+              Balance     : $0.00
+            
+        - Subaccount: 167
+          Description :  Loans and
+          Balance     : $0.00
+        
+            - Subaccount: 1671
+              Description :  Issues of
+              Balance     : $0.00
+            
+            - Subaccount: 1674
+              Description :  Advances 
+              Balance     : $0.00
+            
+            - Subaccount: 1675
+              Description :  Profit-sh
+              Balance     : $0.00
+            
+        - Subaccount: 168
+          Description :  Other loa
+          Balance     : $0.00
+        
+            - Subaccount: 1681
+              Description :  Other loa
+              Balance     : $0.00
+            
+            - Subaccount: 1685
+              Description :  Capitaliz
+              Balance     : $0.00
+            
+            - Subaccount: 1687
+              Description :  Other deb
+              Balance     : $0.00
+            
+            - Subaccount: 1688
+              Description :  Accrued i
+              Balance     : $0.00
+            
+                - Subaccount: 16881
+                  Description :  on conver
+                  Balance     : $0.00
+                
+                - Subaccount: 16883
+                  Description :  on other 
+                  Balance     : $0.00
+                
+                - Subaccount: 16884
+                  Description :  on loans 
+                  Balance     : $0.00
+                
+                - Subaccount: 16885
+                  Description :  on deposi
+                  Balance     : $0.00
+                
+                - Subaccount: 16886
+                  Description :  on employ
+                  Balance     : $0.00
+                
+                - Subaccount: 16887
+                  Description :  on loans 
+                  Balance     : $0.00
+                
+                - Subaccount: 16888
+                  Description :  on other 
+                  Balance     : $0.00
+                
+        - Subaccount: 169
+          Description :  Debenture
+          Balance     : $0.00
+        
+    - Subaccount: 17
+      Description :  Debts rel
+      Balance     : $0.00
+    
+        - Subaccount: 171
+          Description :  Debts rel
+          Balance     : $0.00
+        
+        - Subaccount: 174
+          Description :  Debts rel
+          Balance     : $0.00
+        
+        - Subaccount: 178
+          Description :  Debts rel
+          Balance     : $0.00
+        
+            - Subaccount: 1781
+              Description :  Principal
+              Balance     : $0.00
+            
+            - Subaccount: 1788
+              Description :  Accrued i
+              Balance     : $0.00
+            
+    - Subaccount: 18
+      Description :  Intra-ent
+      Balance     : $0.00
+    
+        - Subaccount: 181
+          Description :  Intra-ent
+          Balance     : $0.00
+        
+        - Subaccount: 186
+          Description :  Goods and
+          Balance     : $0.00
+        
+        - Subaccount: 187
+          Description :  Goods and
+          Balance     : $0.00
+        
+        - Subaccount: 188
+          Description :  Intra-ent
+          Balance     : $0.00
+        
+TRANSACTIONS
+------------------------------------------
+No transactions available for this account.
+==========================================
+        END OF ACCOUNT REPORT             
+==========================================

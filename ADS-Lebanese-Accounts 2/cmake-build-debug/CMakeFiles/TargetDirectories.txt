@@ -1,0 +1,3 @@
+/Users/tonydawra/Downloads/DS-Lebanese-Accounts 2/cmake-build-debug/CMakeFiles/DS_Lebanese_Accounts_2.dir
+/Users/tonydawra/Downloads/DS-Lebanese-Accounts 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tonydawra/Downloads/DS-Lebanese-Accounts 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
